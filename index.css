@@ -63,3 +63,13 @@ footer{
     padding: 10px;
     background-color: cyan;
 }
+#about,#services{
+    font-size: medium;
+    font-weight: bold;
+}
+h3{
+    color: crimson;
+    font-size: x-large;
+    background-color: darkolivegreen;
+    padding: 10px;
+}
